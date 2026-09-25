@@ -1,0 +1,8 @@
+body{
+    background-color: red;
+    color: aliceblue;
+}
+tr{border: 3px;}
+td{
+    border: 2px solid black;
+}
